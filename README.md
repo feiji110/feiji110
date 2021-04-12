@@ -1,7 +1,7 @@
 
 <a href="https://www.facebook.com/angus.gao.9/" target="_blank" rel="nofollow"><img align="right" alt="AngusGao's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://www.linkedin.com/in/angusgao-96880720b/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://space.bilibili.com/349427830" target="_blank" rel="nofollow"><img align="right" alt="AngusGao's bilibili" width="20px" src="views/bilibili.svg" /></a>
+<a href="https://space.bilibili.com/349427830" target="_blank" rel="nofollow"><img align="right" alt="AngusGao's bilibili" width="22px" src="views/bilibili.svg" /></a>
 <a href="https://blog.csdn.net/m0_43414114?spm=1000.2115.3001.5343" target="blank"><img align="right" src="views/csdn.svg" width="18px"  /></a>
 <a href="https://www.kaggle.com/ruhuasiyu" target="blank"><img align="right" src="views/kaggle.svg" width="20px"  /></a>
 
